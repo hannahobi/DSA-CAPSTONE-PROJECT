@@ -110,5 +110,10 @@ Key fields analyzed in the dashboard include:
 * Total amount to be paid out by region
 * Total amount to be paid out per company wide
 
+### Contact
+For feedback, you can reach out via Github or connect on LinkedIn www.linkedin.com/in/
+hannah-obi
 
+
+ 
       
