@@ -26,4 +26,5 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 ![image](https://github.com/user-attachments/assets/53a9fd41-0037-40ba-9718-398fac88e842)
 ![image](https://github.com/user-attachments/assets/fdc38dc8-fb2c-4749-89bd-ce33f5dbd8b0)
 ![image](https://github.com/user-attachments/assets/0f38748b-72ed-4bd6-b496-45a649c910da)
+![image](https://github.com/user-attachments/assets/7acbf4ca-6338-4002-9c64-4e253eaaea9d)
 
