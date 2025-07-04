@@ -3,6 +3,13 @@ A Data Analysis Project which focuses on end to end data analysis, starting with
 ## PROECT TOPIC 1: KULTRA MEGA STORE INVENTORY ( CASE STUDY 2) 
 ### Project Overview
 This data analysis project involves analyzing inventory  and sales dataset  for Kultra Mega Store Inventory using SQL.
+### Files Included
+* Inventory queries.sql: SQL scripts to answer key business questions
+* Screenshots.png
+* Readme.md: Project overview and structure
+### Tools Used
+* SQL (SQL Server) 
+* Github for version control
 ### Project Goals
 #### Case Scenario I
 * analyze the highest sales
@@ -17,14 +24,12 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 * Which customer was the most profitable one
 * Which customer returned items, and what segment donthey belong to
 * If the delivery truck is the most economical but slowest shhipping method and express air is the fastest but the most expensive one, do you think the company appropraitely spent shipping costs based on the order priority? Explain your answer
-### Files Included
-* Inventory queries.sql: SQL scripts to answer key business questions
-* Screenshots.png
-* Readme.md: Project overview and structure
-### Tools Used
-* SQL (SQL Server) 
-* Github for version control
+
 ### Results/Findings
+File Description: The file contains 11 SQL Server compatible queries
+KMS_Case_Study_Executed_Results_Hannah O.C.obi.xlsx contains executed answers ( 1 sheet per question) and the cleaned version of the original dataset
+#### Screenshort of work done on SQL:
+
 ![image](https://github.com/user-attachments/assets/5da8c470-3a35-4033-94e9-40b9dbad5f9d)
 ![image](https://github.com/user-attachments/assets/a2f9719e-3954-47e8-93a3-78eed53f2256)
 ![image](https://github.com/user-attachments/assets/b6226a9b-8723-4e75-b358-04d5aa7b9899)
@@ -43,4 +48,4 @@ this project presents a comprehensive HR analysis dashboard for palmoria Group u
 ### Dashboard Goals
 * Gender distribution in the organization, distil to region amd department
 * show insight on rating based on gender
-* analyze t
+* analyze 
