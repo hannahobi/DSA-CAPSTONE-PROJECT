@@ -91,6 +91,9 @@ Key fields analyzed in the dashboard include:
 * Dashboard-screenshot.png - Static preview of the report
 
 ### Dashboard Preview
+![image](https://github.com/user-attachments/assets/265c631b-6528-4bba-b645-70924a74907d)
+
+
 
 
       
