@@ -22,8 +22,8 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 * Which small business customer had the highest sales
 * Which corperate customer placed the most number of orders in 2009 - 2012
 * Which customer was the most profitable one
-* Which customer returned items, and what segment donthey belong to
-* If the delivery truck is the most economical but slowest shhipping method and express air is the fastest but the most expensive one, do you think the company appropraitely spent shipping costs based on the order priority? Explain your answer
+* Which customer returned items, and what segment do they belong to
+* Shipping cost based on order of Priority
 
 ### Results/Findings
 File Description: The file contains 11 SQL Server compatible queries
