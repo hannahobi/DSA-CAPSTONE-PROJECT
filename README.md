@@ -96,6 +96,7 @@ Key fields analyzed in the dashboard include:
 ![image](https://github.com/user-attachments/assets/b7f31eb7-31bb-4292-b9de-749e7f5864d9)
 ![image](https://github.com/user-attachments/assets/8dfb1084-44fe-439f-9298-7afb6f469e79)
 ![image](https://github.com/user-attachments/assets/27a8b4eb-9c43-4726-8d7e-27c13d1fc226)
+![image](https://github.com/user-attachments/assets/605a405f-9999-445e-8038-06336e2dc80b)
 
 
 
