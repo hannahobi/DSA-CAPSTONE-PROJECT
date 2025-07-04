@@ -67,4 +67,17 @@ this project presents a comprehensive HR analysis dashboard for palmoria Group u
      - Calculate theamount to be paid as a bonus to individuals employees
      - Calculate the total amount to be paid to individual employees (salary inclusive of bonus )
      - Total amount to be paid out per region and company-wide
+## Dta Fields Used
+Key fields analyzed in the dashboard include:
+* Employee Name
+* Gender
+* Department
+* Salary
+* Rating
+* Dept_Rating
+* Bonus Rate
+* Annual Bonus
+* Total Pay
+* Salary Band
+* Region
       
