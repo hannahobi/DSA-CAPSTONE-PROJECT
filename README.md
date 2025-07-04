@@ -19,4 +19,5 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 * If the delivery truck is the most economical but slowest shhipping method and express air is the fastest but the most expensive one, do you think the company appropraitely spent shipping costs based on the order priority? Explain your answer
 ### Results/Findings
 ![image](https://github.com/user-attachments/assets/5da8c470-3a35-4033-94e9-40b9dbad5f9d)
+![image](https://github.com/user-attachments/assets/a2f9719e-3954-47e8-93a3-78eed53f2256)
 
