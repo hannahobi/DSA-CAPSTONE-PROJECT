@@ -100,7 +100,15 @@ Key fields analyzed in the dashboard include:
 ![image](https://github.com/user-attachments/assets/e4932391-c972-4559-9575-5b7d878086b0)
 ![image](https://github.com/user-attachments/assets/c8d25e86-6f02-43ec-9afb-3c591008adb3)
 
-
+### Key Insights
+* Gender distribution by Region and Department
+* Gender distribution by Rating
+* Gender pay gap
+* Paid distribution of employee grouped by a band
+* Amount paid as bonus to individual employee
+* Total amountbpaid to individual employee
+* Total amount to be paid out by region
+* Total amount to be paid out per company wide
 
 
       
