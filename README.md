@@ -49,7 +49,7 @@ based on my findings, Express Air is used for high priority orders, medium and e
 * Monitor monthly shipping to improve policy enforcement
 
 
-As part of a business analytics case for a retail company, I analyzed deep-dive SQL analysis across customers_segments, product_categories, and shipping methods. i performed my analysis with SQL Server, wrote queries and exported insights to Excel for review.
+#### As part of a business analytics case for a retail company, I analyzed deep-dive SQL analysis across customers_segments, product_categories, and shipping methods. i performed my analysis with SQL Server, wrote queries and exported insights to Excel for review.
 
 ## PROJECT TOPIC 2: PALMORIA GROUP HR ANALYSIS ( CASE STUDY 3 )
 ### Project Overview
