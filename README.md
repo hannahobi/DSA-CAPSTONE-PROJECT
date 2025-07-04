@@ -42,6 +42,11 @@ KMS_Case_Study_Executed_Results_Hannah O.C.obi.xlsx contains executed answers ( 
 ![image](https://github.com/user-attachments/assets/77931d1d-7441-4a80-b30f-aee953625ad6)
 ![image](https://github.com/user-attachments/assets/4b4392fa-ea8c-4e58-873d-a94325530e8c)
 ![image](https://github.com/user-attachments/assets/2967ed67-103b-4e36-81f3-c46669ee3d8c)
+based on my findings, Express Air is used for high priority orders, medium and especially low priority orders which raises concerns about the shipping cost efficiency.
+##### I will recommend:
+* Restriction of Air Express to only High Priority shipments
+* Use Truck Delivery for low and meduim priority to reduce cost
+* Monitor monthly shipping to improve policy enforcement
 
 
 As part of a business analytics case for a retail company, I analyzed deep-dive SQL analysis across customers_segments, product_categories, and shipping methods. i performed my analysis with SQL Server, wrote queries and exported insights to Excel for review.
