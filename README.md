@@ -56,5 +56,11 @@ based on my findings, Express Air is used for high priority orders, medium and e
 this project presents a comprehensive HR analysis dashboard for palmoria Group using Power BI. It provide insight of the workforce distribution, employee operfoemance, gender balance, bonus rate.
 ### Dashboard Goals
 * Gender distribution in the organization, distil to region amd department
-* show insight on rating based on gender
-* analyze 
+* Show insight on rating based on gender
+* Analyse the company salary structure by gender pay gap
+* A regulation was adopted
+    - Does palmoria meets the requirement
+    - Show the payment distribution grouped by a band
+    - How many employee fall into the different band
+    - Visualize this by regions 
+      
