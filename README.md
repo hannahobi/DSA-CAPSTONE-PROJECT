@@ -63,7 +63,7 @@ this project presents a comprehensive HR analysis dashboard for palmoria Group u
     - Show the payment distribution grouped by a band
     - How many employee fall into the different band
     - Visualize this by regions
-  * Performance rating
+* Performance rating
      - Calculate theamount to be paid as a bonus to individuals employees
      - Calculate the total amount to be paid to individual employees (salary inclusive of bonus )
      - Total amount to be paid out per region and company-wide
