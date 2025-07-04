@@ -38,4 +38,5 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 ![image](https://github.com/user-attachments/assets/4b4392fa-ea8c-4e58-873d-a94325530e8c)
 ![image](https://github.com/user-attachments/assets/2967ed67-103b-4e36-81f3-c46669ee3d8c)
 ## PROJECT TOPIC 2: PALMORIA GROUP HR ANALYSIS ( CASE STUDY 3 )
-
+### Project Overview
+this project presents a comprehensive HR analysis dashboard for palmoria Group using Power BI. 
