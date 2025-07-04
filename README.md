@@ -92,6 +92,7 @@ Key fields analyzed in the dashboard include:
 
 ### Dashboard Preview
 ![image](https://github.com/user-attachments/assets/265c631b-6528-4bba-b645-70924a74907d)
+![image](https://github.com/user-attachments/assets/09b33d26-b115-4f87-a49e-9e67bd9c69a4)
 
 
 
