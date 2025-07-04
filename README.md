@@ -1,6 +1,6 @@
 # DSA-CAPSTONE-PROJECT
 A Data Analysis Project which focuses on end to end data analysis, starting with Data Extraction and Transformation using SQL, Power BI, followed by the insightful creation of dashboards and reports in Power BI to visualze key metrics decision making
-## PROECT TOPIC: KULTRA MEGA STORE INVENTORY ( CASE STUDY 2) 
+## PROECT TOPIC 1: KULTRA MEGA STORE INVENTORY ( CASE STUDY 2) 
 ### Project Overview
 This data analysis project involves analyzing inventory  and sales dataset  for Kultra Mega Store Inventory using SQL.
 ### Project Goals
@@ -17,6 +17,13 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 * Which customer was the most profitable one
 * Which customer returned items, and what segment donthey belong to
 * If the delivery truck is the most economical but slowest shhipping method and express air is the fastest but the most expensive one, do you think the company appropraitely spent shipping costs based on the order priority? Explain your answer
+### Files Included
+* Inventory queries.sql: SQL scripts to answer key business questions
+* Screenshots.png
+* Readme.md: Project overview and structure
+### Tools Used
+* SQL (SQL Server) 
+* Github for version control
 ### Results/Findings
 ![image](https://github.com/user-attachments/assets/5da8c470-3a35-4033-94e9-40b9dbad5f9d)
 ![image](https://github.com/user-attachments/assets/a2f9719e-3954-47e8-93a3-78eed53f2256)
@@ -30,4 +37,5 @@ This data analysis project involves analyzing inventory  and sales dataset  for 
 ![image](https://github.com/user-attachments/assets/77931d1d-7441-4a80-b30f-aee953625ad6)
 ![image](https://github.com/user-attachments/assets/4b4392fa-ea8c-4e58-873d-a94325530e8c)
 ![image](https://github.com/user-attachments/assets/2967ed67-103b-4e36-81f3-c46669ee3d8c)
+## PROJECT TOPIC 2: PALMORIA GROUP HR ANALYSIS ( CASE STUDY 3 )
 
