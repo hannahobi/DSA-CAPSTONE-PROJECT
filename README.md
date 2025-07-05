@@ -51,64 +51,6 @@ based on my findings, Express Air is used for high priority orders, medium and e
 
 #### As part of a business analytics case for a retail company, I analyzed deep-dive SQL analysis across customers_segments, product_categories, and shipping methods. i performed my analysis with SQL Server, wrote queries and exported insights to Excel for review.
 
-## PROJECT TOPIC 2: PALMORIA GROUP HR ANALYSIS ( CASE STUDY 3 )
-### Project Overview
-this project presents a comprehensive HR analysis dashboard for palmoria Group using Power BI. It provide insight of the workforce distribution, employee operfoemance, gender balance, bonus rate.
-### Dashboard Goals
-* Gender distribution in the organization, distil to region amd department
-* Show insight on rating based on gender
-* Analyse the company salary structure by gender pay gap
-* A regulation was adopted
-    - Does palmoria meets the requirement
-    - Show the payment distribution grouped by a band
-    - How many employee fall into the different band
-    - Visualize this by regions
-* Performance rating
-     - Calculate theamount to be paid as a bonus to individuals employees
-     - Calculate the total amount to be paid to individual employees (salary inclusive of bonus )
-     - Total amount to be paid out per region and company-wide
-### Data Fields Used
-Key fields analyzed in the dashboard include:
-* Employee Name
-* Gender
-* Department
-* Salary
-* Rating
-* Dept_Rating
-* Bonus Rate
-* Annual Bonus
-* Total Pay
-* Salary Band
-* Region
-
-### Tools Used
-* Power BI Desktop
-* DAX for calculated fields and KPIs
-* Power Query for transformation
-
-### Files Used
-* Palmoria_group_hr_dashboard.pbix - Full interactive dashboard file
-* Dashboard-screenshot.png - Static preview of the report
-
-### Dashboard Preview
-![image](https://github.com/user-attachments/assets/265c631b-6528-4bba-b645-70924a74907d)
-![image](https://github.com/user-attachments/assets/09b33d26-b115-4f87-a49e-9e67bd9c69a4)
-![image](https://github.com/user-attachments/assets/b7f31eb7-31bb-4292-b9de-749e7f5864d9)
-![image](https://github.com/user-attachments/assets/8dfb1084-44fe-439f-9298-7afb6f469e79)
-![image](https://github.com/user-attachments/assets/27a8b4eb-9c43-4726-8d7e-27c13d1fc226)
-![image](https://github.com/user-attachments/assets/605a405f-9999-445e-8038-06336e2dc80b)
-![image](https://github.com/user-attachments/assets/e4932391-c972-4559-9575-5b7d878086b0)
-![image](https://github.com/user-attachments/assets/c8d25e86-6f02-43ec-9afb-3c591008adb3)
-
-### Key Insights
-* Gender distribution by Region and Department
-* Gender distribution by Rating
-* Gender pay gap
-* Paid distribution of employee grouped by a band
-* Amount paid as bonus to individual employee
-* Total amountbpaid to individual employee
-* Total amount to be paid out by region
-* Total amount to be paid out per company wide
 
 ### Contact
 For feedback, you can reach out via Github or connect on LinkedIn www.linkedin.com/in/hannah-obi
